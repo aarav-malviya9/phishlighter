@@ -1,4 +1,17 @@
-# 🛡️ PhishLighter — AI-Powered Social Engineering Detector
+
+
+
+
+https://github.com/user-attachments/assets/ef92a31d-ec86-45c0-88a0-be5d0bc94e0f
+
+
+
+
+
+
+
+
+#  PhishLighter — AI-Powered Social Engineering Detector
 
 <div align="center">
 
@@ -6,7 +19,6 @@
 
 PhishLighter uses AI to detect psychological manipulation tactics in emails and messages — and visually highlights the exact phrases designed to trick you.
 
-[Live Demo](#) · [Demo Video](#) · [Devpost](#)
 
 </div>
 
