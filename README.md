@@ -58,7 +58,7 @@ PhishLighter analyzes emails for **psychological manipulation tactics** (not jus
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/phishlighter.git
+git clone https://github.com/aarav-malviya9/phishlighter.git
 cd phishlighter
 
 # Install dependencies
